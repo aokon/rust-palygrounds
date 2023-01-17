@@ -8,7 +8,7 @@
 
 ### Fetching crate packages
 
-It looks like that I have some issue with ssh-agent and I have received authentication error during fetching deps via cargo. I had use following workflow:
+It looks like that I have some issue with ssh-agent and I have received authentication error during fetching deps via cargo. I have had to use following workflow:
 
 ```
 eval `ssh-agent -s`
